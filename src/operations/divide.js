@@ -5,4 +5,4 @@ const divide = (dividend, divisor) => {
     return dividend/divisor;
 };
 
-module.exports = divide;
+export default divide;
